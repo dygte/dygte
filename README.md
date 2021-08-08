@@ -10,10 +10,10 @@ to be any user interface to build the game and you have to eye-ball everything w
 It's something really weird to me but I think it's a fun little challenge
 (and i also think that whoever works with this program on a daily basis is a straight god).
 
-I program little things since I was a kid but it still feels like i'm just starting to dip dip 
+I program little things since I was a kid but it still feels like i'm just starting to dip
 my toes into a huge ocean of possibilities. Maybe someday i'll take this thing as a job...
 
-I also have a [Youtube channel](https://www.youtube.com/channel/UCFzqXu10stskzvFuXjGgQww) 
+I also have a [Youtube channel](https://www.youtube.com/channel/UCFzqXu10stskzvFuXjGgQww)
 where I plan to post future videos. :)
 
 <!---
