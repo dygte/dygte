@@ -2,7 +2,7 @@
 
 Welcome to my silly little profile!
 
-I'm dygte and i'm currently learning C# from Unity and also kinda doing some things with HaxeFlixel.  
+My username's dygte and i'm currently learning C# from Unity and also kinda doing some things with HaxeFlixel.  
 *cough*.. friday night funkin. *cough*..  
 
 HaxeFlixel is a really interesting game engine to me cause apparently there doesn't seem
