@@ -3,7 +3,7 @@
 Welcome to my silly little profile!
 
 My username's dygte and i'm currently learning C# from Unity and also kinda doing some things with HaxeFlixel.  
-*cough*.. friday night funkin. *cough*..  
+###### *cough*.. friday night funkin. *cough*..  
 
 HaxeFlixel is a really interesting game engine to me cause apparently there doesn't seem
 to be any user interface to build the game and you have to eye-ball everything when coding.  
